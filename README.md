@@ -1,5 +1,5 @@
 ### Hi there 👋
-Welcome to my GitHub, you can find some od my projects here !
+Welcome to my GitHub, you can find some of my projects here !
 
 <!--
 **Marwankhairallah/Marwankhairallah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
